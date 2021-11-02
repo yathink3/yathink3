@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
+<h1 align="center">Hi 👋, I'm Yathin k</h1>
 <p align="right">
 <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" style="max-width:100%;/></p>
  <br>                                                                                                                       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deva88&label=Profile%20views&color=0e75b6&style=flat" alt="deva88" /> </p>
 
-- 🌱 I’m currently learning **Node JS and JavaScript**
+- 🌱 I’m currently learning **sveltejs and sveltekit**
 
-- 🤝 I’m looking for help with **Node Js / JavaScript**
+- 🤝 I’m looking for help with **sveltekit  and nextjs**
 
-- 💬 Ask me about **Html,javascript,Oops,Css,Linux,core java, Adv. java and Git(Github)**
+- 💬 Ask me about **Html,javascript,Oops,Css,Reactjs,ReactNative and Git(Github) and also any related to frontend framework**
 
-- 📫 How to reach me : **devendra.raj.sdm@gmail.com**
+- 📫 How to reach me : **yathink3@gmail.com**
 
 - ⚡ Fun fact **Late-night listening to Music,CODING,Reading.**
    
  <pre><b>
 Technical Profile Summary:-
-     Technology & Frameworks:- TestNG, Junit, Page Object.
+     Technology & Frameworks:- NodeJs, ReactJs, ReactNative, SvelteJS ,Sveltekit ,VueJs.
      Data Structures :- Arrays, Stacks, Queues, Linked List, Tree, hash map.
      Object Oriented Design:- Strong understanding of OOPS Concept, Exception Handling.
-     Tools:- IntelliJ Idea, Eclipse, Visual Studio, Selenium WebDriver, Postman, bug tracker.
+     Tools:- IntelliJ Idea, Eclipse, Visual Studio, Postman.
                                                                   
 BridgeLabz Solutions Pvt Ltd February 2021- Till Now
 Core Java Projects:</b>
@@ -59,7 +59,7 @@ QA Automation Projects:</b>
          ("#           /\  /\   / (__,,,,|                               #")
          ("#          ) /^\) ^\/ _)      Good knowledge on:-             #")
          ("#          )   /^\/   _)  Development:- Linux & GIT, OOPS,    #")
-         ("#          )   _ /  / _)                Core java, JDBC, SQL, #")
+         ("#          )   _ /  / _)                 SQL, #")
          ("#      /\  )/\/ ||  | )_)               HTML5, CSS, CSS3,     #")
          ("#     <  >      |(,,) )__)              HTML, JavaScript.     #")
          ("#      ||      /    \)___)\   Testing:- Postman API, Selenium #")
@@ -75,11 +75,11 @@ QA Automation Projects:</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@heartdonorT" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@heartdonorT" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/devendra-kumar-558b4712b" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devendra kumar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100057260570396" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devendra kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/heartdonor" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="heartdonor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCT6OivzfWg0ZmiWYnVwxKaQ" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="devendra kumar" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/@heartdonorT" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@heartdonorT" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/yathin-k-648a85149/" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devendra kumar" height="30" width="40" /></a>
+<!-- <a href="https://www.facebook.com/profile.php?id=100057260570396" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devendra kumar" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/__code_breaker__/" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="heartdonor" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/channel/UCT6OivzfWg0ZmiWYnVwxKaQ" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="devendra kumar" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
