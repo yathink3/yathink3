@@ -21,8 +21,7 @@ Technical Profile Summary:-
      Object Oriented Design:- Strong understanding of OOPS Concept, Exception Handling.
      Tools:- IntelliJ Idea, Eclipse, Visual Studio, Postman.
                                                                   
-BridgeLabz Solutions Pvt Ltd February 2021- Till Now
-Core Java Projects:</b>
+BridgeLabz Solutions Pvt Ltd February 2021- Till Now:</b>
                                                                              
      1. UserRegistration By JUnit: 
         Create an application which takes input from users like Email, FirstName,LastName, City, Zip Code,
