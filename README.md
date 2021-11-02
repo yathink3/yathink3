@@ -38,18 +38,12 @@ QA Automation Projects:</b>
                                                                               
     1. API Testing: 
        Tested Spotify Api using postman by creating a playlist, adding and replacing tracks by album or artist
-       or track name, deleting tracks and playlist, updating cover image, etc. All done using API testing tools 
-       and Java Libraries.
+       or track name, deleting tracks and playlist, updating cover image, etc. All done using API testing tools.
        Tools Used: Postman, Rest Assured Java Library, Java .
     2. Manual Testing: 
        Written High Level Scenarios (HLS), Test Cases for OpenCart Web App. Participated in the Review Process.
        Modified/Updated Test Cases as per Requirement Changes and Review Comments. Conducted Functional, Integration,
-       System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.
-    3. Automation Testing: 
-       Performed Web Automation on different applications using Selenium WebDriver with Java. Implemented Data 
-       Driven / Page Object Model using Selenium WebDriver. Generated Test Reports using Extent Reports and created
-       log files for the same. Implemented TestNg framework to obtain efficient and better testing on the modules.
-       ToolsUsed: Selenium webdriver, TestNG, Bug Tracker tool, Java.</pre>                                                                                                                          
+       System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.                                                                                                                        
 
 
          ("###############################################################")
