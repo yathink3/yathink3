@@ -68,7 +68,6 @@ QA Automation Projects:</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/@heartdonorT" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@heartdonorT" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/yathin-k-648a85149/" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devendra kumar" height="30" width="40" /></a>
 <!-- <a href="https://www.facebook.com/profile.php?id=100057260570396" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devendra kumar" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/__code_breaker__/" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="heartdonor" height="30" width="40" /></a>
