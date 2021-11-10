@@ -42,7 +42,7 @@ QA Automation Projects:</b>
     2. Manual Testing: 
        Written High Level Scenarios (HLS), Test Cases for OpenCart Web App. Participated in the Review Process.
        Modified/Updated Test Cases as per Requirement Changes and Review Comments. Conducted Functional, Integration,
-       System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.                                                                                                                        
+       System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.</pre>                                                                                                                          
 
 
          ("###############################################################")
@@ -79,4 +79,4 @@ QA Automation Projects:</b>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deva88&show_icons=true&locale=en" alt="deva88" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yathink3&show_icons=true&locale=en" alt="yathink3" /></p>
