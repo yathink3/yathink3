@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yathin k</h1>
+<h1 align="center">Hi 👋, I'm Yathin</h1>
 <p align="right">
 <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" style="max-width:100%;/></p>
  <br>                                                                                                                       
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deva88&label=Profile%20views&color=0e75b6&style=flat" alt="deva88" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yathink3&label=Profile%20views&color=0e75b6&style=flat" alt="yathink3" /> </p>
 
 - 🌱 I’m currently learning **sveltejs and sveltekit**
 
@@ -44,7 +44,7 @@ QA Automation Projects:</b>
        Modified/Updated Test Cases as per Requirement Changes and Review Comments. Conducted Functional, Integration,
        System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.</pre>                                                                                                                          
 
-
+<
          ("###############################################################")
          ("#                                                             #")
          ("#                     \||/                                    #")
