@@ -44,7 +44,7 @@ QA Automation Projects:</b>
        Modified/Updated Test Cases as per Requirement Changes and Review Comments. Conducted Functional, Integration,
        System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.</pre>                                                                                                                          
 
-<
+<pre><b>
          ("###############################################################")
          ("#                                                             #")
          ("#                     \||/                                    #")
