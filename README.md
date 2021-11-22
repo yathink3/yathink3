@@ -3,6 +3,8 @@
 <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" style="max-width:100%;/></p>
  <br>                                                                                                                       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yathink3&label=Profile%20views&color=0e75b6&style=flat" alt="yathink3" /> </p>
+<img src="https://profile-counter.glitch.me/yathink3/count.svg" alt="yathink3" />
+
 
 - 🌱 I’m currently learning **sveltejs and sveltekit**
 
