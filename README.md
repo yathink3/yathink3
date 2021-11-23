@@ -55,14 +55,14 @@ QA Automation Projects:</b>
          ("#          )   /^\/   _)  Development:- Linux & GIT, OOPS,    #")
          ("#          )   _ /  / _)                 SQL,                 #")
          ("#      /\  )/\/ ||  | )_)               HTML5, CSS, CSS3,     #")
-         ("#     <  >      |(,,) )__)              HTML, JavaScript.     #")
-         ("#      ||      /    \)___)\   Testing:- Postman API           #")
-         ("#      | \____( Hack  )___) )___         Database Testing     #")
-         ("#      \______(_______;;; __;;;          Manual Testing       #")
-         ("#                                        Automation Testing   #")
+         ("#     <  >      |(,,) )__)              HTML, JavaScript.     #")           (\_/)
+         ("#      ||      /    \)___)\   Testing:- Postman API           #")          (=':'=)
+         ("#      | \____( Hack  )___) )___         Database Testing     #")       ▀▀▀███████▀▀▀
+         ("#      \______(_______;;; __;;;          Manual Testing       #")          ███████
+         ("#                                        Automation Testing   #")          ███████
          ("###############################################################")
     
-
+ 
 
 </b></pre>
 
