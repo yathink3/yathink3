@@ -83,7 +83,7 @@
     - 🎮 2048 Game: Puzzle game developed with React.js and TailwindCSS. 
 
 <b>🎓 Education:</b>
-    - 🏫 B.Tech in Information Science and Engineering, 7.25 CGPA (2015-2019)
+    - 🏫 B.Tech in Information Science and Engineering (2015-2019)
 
 <b>📬 Contact Information:</b>
     - ✉️ Email: yathink3@gmail.com
