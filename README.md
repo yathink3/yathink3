@@ -48,37 +48,49 @@
 <br/>
 <hr/>
 
- <pre><b/>
-Technical Profile Summary:-
-     Technology & Frameworks:- NodeJs, ReactJs, ReactNative, SvelteJS ,Sveltekit ,VueJs.
-     Data Structures :- Arrays, Stacks, Queues, Linked List, Tree, hash map.
-     Object Oriented Design:- Strong understanding of OOPS Concept, Exception Handling.
-     Tools:- IntelliJ Idea, Eclipse, Visual Studio, Postman.
-                                                                  
-BridgeLabz Solutions Pvt Ltd February 2021- Till Now:</b>
-                                                                             
-     1. UserRegistration By JUnit: 
-        Create an application which takes input from users like Email, FirstName,LastName, City, Zip Code,
-        Phone Number and test it using REGEX and by using Nunit testing framework with hard coded values,
-        shows output or error using exceptions.
-     2. AddressBook Application: 
-        Create an application address book which takes input from the user and stores contact details in the
-        address book. Manages state wise multiple address books and store contacts. It has functionality to 
-        update existing contact, Delete contact, Search by state, Search by city, Get Number of contacts etc.
-        using Map, List collection classes and their method to show appropriate data.
-<b/>         
-QA Automation Projects:</b>
-                                                                              
-    1. API Testing: 
-       Tested Spotify Api using postman by creating a playlist, adding and replacing tracks by album or artist
-       or track name, deleting tracks and playlist, updating cover image, etc. All done using API testing tools.
-       Tools Used: Postman, Rest Assured Java Library, Java .
-    2. Manual Testing: 
-       Written High Level Scenarios (HLS), Test Cases for OpenCart Web App. Participated in the Review Process.
-       Modified/Updated Test Cases as per Requirement Changes and Review Comments. Conducted Functional, Integration,
-       System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.</pre>                                                                                                                          
+<pre><b>Technical Profile Summary:</b>
+    
+    <b>Core Skills:</b>
+        - Frontend: React.js, Next.js, Vue.js, Svelte.js, SvelteKit
+        - Backend: Node.js, Express.js, MongoDB, SQL
+        - Testing: JUnit, Postman, Rest Assured, Mocha, Chai
+        - Design Patterns: OOP Concepts, Exception Handling
+        - Tools: IntelliJ IDEA, Visual Studio, Eclipse, Git, Postman
 
+<b>Work Experience:</b>
+
+    <b>Senior Software Engineer | X0PA AI, Singapore (Jan 2023 - Present):</b>
+        - Built scalable web applications using React.js, Next.js, and Ant Design.
+        - Optimized performance and SEO with JAMstack principles and Astro.js.
+        - Enhanced user experience with Framer Motion animations.
+
+    <b>Software Engineer | Recro, Bengaluru (Dec 2021 - Dec 2022):</b>
+        - Migrated CRA to Vite, achieving 3.5x faster builds.
+        - Built utility libraries and reusable custom React hooks.
+        - Worked on IBM Carbon Design System for consistent UI components.
+
+    <b>Software Engineer | ValorPaytech, Chennai (Nov 2020 - Nov 2021):</b>
+        - Developed SPAs with React.js and Redux for dynamic functionality.
+        - Implemented drag-and-drop features using React-Draggable.
+        - Collaborated with backend teams to integrate RESTful APIs.
+
+    <b>Internship | BridgeLabz (2019):</b>
+        - Developed a full-stack FundooNotes app with responsive design.
+        - Built ChatApp using Node.js, AngularJS, MongoDB, and Socket.IO.
+
+<b>Notable Projects:</b>
+    - Task Manager: Web app built using React.js, Vite, and TailwindCSS for task organization.
+    - 2048 Game: Puzzle game developed with React.js and TailwindCSS. 
+
+<b>Education:</b>
+    - B.Tech in Information Science and Engineering, 7.25 CGPA (2015-2019)
+
+<b>Contact Information:</b>
+    - Email: yathink3@gmail.com
+    - GitHub: https://github.com/yathink3
+    - LinkedIn: https://www.linkedin.com/in/yathin-k-648a85149/
 </pre>
+
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
