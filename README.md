@@ -48,48 +48,49 @@
 <br/>
 <hr/>
 
-<pre><b>Technical Profile Summary:</b>
+<pre><b>🌟 Technical Profile Summary:</b>
     
-    <b>Core Skills:</b>
-        - Frontend: React.js, Next.js, Vue.js, Svelte.js, SvelteKit
-        - Backend: Node.js, Express.js, MongoDB, SQL
-        - Testing: JUnit, Postman, Rest Assured, Mocha, Chai
-        - Design Patterns: OOP Concepts, Exception Handling
-        - Tools: IntelliJ IDEA, Visual Studio, Eclipse, Git, Postman
+<b>💻 Core Skills:</b>
+        - 🖥️ Frontend: React.js, Next.js, Vue.js, Svelte.js, SvelteKit
+        - ⚙️ Backend: Node.js, Express.js, MongoDB, SQL
+        - 🧪 Testing: JUnit, Postman, Rest Assured, Mocha, Chai
+        - 🛠️ Design Patterns: OOP Concepts, Exception Handling
+        - 🧰 Tools: IntelliJ IDEA, Visual Studio, Eclipse, Git, Postman
 
-<b>Work Experience:</b>
+<b>👨‍💻 Work Experience:</b>
 
-    <b>Senior Software Engineer | X0PA AI, Singapore (Jan 2023 - Present):</b>
-        - Built scalable web applications using React.js, Next.js, and Ant Design.
-        - Optimized performance and SEO with JAMstack principles and Astro.js.
-        - Enhanced user experience with Framer Motion animations.
+    <b>🚀 Senior Software Engineer | X0PA AI, Singapore (Jan 2023 - Present):</b>
+        - ⚡ Built scalable web applications using React.js, Next.js, and Ant Design.
+        - 🌐 Optimized performance and SEO with JAMstack principles and Astro.js.
+        - ✨ Enhanced user experience with Framer Motion animations.
 
-    <b>Software Engineer | Recro, Bengaluru (Dec 2021 - Dec 2022):</b>
-        - Migrated CRA to Vite, achieving 3.5x faster builds.
-        - Built utility libraries and reusable custom React hooks.
-        - Worked on IBM Carbon Design System for consistent UI components.
+    <b>⚡ Software Engineer | Recro, Bengaluru (Dec 2021 - Dec 2022):</b>
+        - 🚀 Migrated CRA to Vite, achieving 3.5x faster builds.
+        - 🛠️ Built utility libraries and reusable custom React hooks.
+        - 🎨 Worked on IBM Carbon Design System for consistent UI components.
 
-    <b>Software Engineer | ValorPaytech, Chennai (Nov 2020 - Nov 2021):</b>
-        - Developed SPAs with React.js and Redux for dynamic functionality.
-        - Implemented drag-and-drop features using React-Draggable.
-        - Collaborated with backend teams to integrate RESTful APIs.
+    <b>🛠️ Software Engineer | ValorPaytech, Chennai (Nov 2020 - Nov 2021):</b>
+        - 🌟 Developed SPAs with React.js and Redux for dynamic functionality.
+        - 🖱️ Implemented drag-and-drop features using React-Draggable.
+        - 🤝 Collaborated with backend teams to integrate RESTful APIs.
 
-    <b>Internship | BridgeLabz (2019):</b>
-        - Developed a full-stack FundooNotes app with responsive design.
-        - Built ChatApp using Node.js, AngularJS, MongoDB, and Socket.IO.
+    <b>🎓 Internship | BridgeLabz (2019):</b>
+        - 🗂️ Developed a full-stack FundooNotes app with responsive design.
+        - 💬 Built ChatApp using Node.js, AngularJS, MongoDB, and Socket.IO.
 
-<b>Notable Projects:</b>
-    - Task Manager: Web app built using React.js, Vite, and TailwindCSS for task organization.
-    - 2048 Game: Puzzle game developed with React.js and TailwindCSS. 
+<b>🚧 Notable Projects:</b>
+    - ✅ Task Manager: Web app built using React.js, Vite, and TailwindCSS for task organization.
+    - 🎮 2048 Game: Puzzle game developed with React.js and TailwindCSS. 
 
-<b>Education:</b>
-    - B.Tech in Information Science and Engineering, 7.25 CGPA (2015-2019)
+<b>🎓 Education:</b>
+    - 🏫 B.Tech in Information Science and Engineering, 7.25 CGPA (2015-2019)
 
-<b>Contact Information:</b>
-    - Email: yathink3@gmail.com
-    - GitHub: https://github.com/yathink3
-    - LinkedIn: https://www.linkedin.com/in/yathin-k-648a85149/
+<b>📬 Contact Information:</b>
+    - ✉️ Email: yathink3@gmail.com
+    - 🐙 GitHub: <a href="https://github.com/yathink3" target="_blank">https://github.com/yathink3</a>
+    - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/yathin-k-648a85149/" target="_blank">https://www.linkedin.com/in/yathin-k-648a85149/</a>
 </pre>
+
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
